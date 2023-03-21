@@ -1,2 +1,2 @@
 # Ol-Mundo
-Primeiro Rpositório do Curso Git e Github
+Primeiro Repositório do Curso Git e Github
